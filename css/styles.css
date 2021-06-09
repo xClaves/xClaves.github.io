@@ -381,9 +381,8 @@ a.btn:hover {
 }
 
 .timeline .location {
-    position: absolute;
-    right: 0;
-    top: 2px;
+    position: relative;
+	text-align:left;
     color: #8a8a8a;
 }
 
